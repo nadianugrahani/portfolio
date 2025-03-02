@@ -47,7 +47,7 @@ export default function Navbar() {
       {/* Button & Hamburger Menu */}
       <div className="flex items-center gap-4">
         <ButtonWithIcon
-          href="https://www.linkedin.com/in/mohmmdarif"
+          href="https://www.linkedin.com/in/nadianugrahani21/"
           className="hidden lg:flex"
         >
           <Linkedin />

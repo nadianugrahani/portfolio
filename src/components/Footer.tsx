@@ -9,14 +9,12 @@ export default function Footer() {
         Let’s <span className="text-gray-700">Connect</span>
       </h2>
       <p className="text-gray-500 mt-2 max-w-4xl mx-auto md:py-7 text-sm md:text-base">
-        Passionate about crafting seamless user experiences, building
-        interactive web applications, or exploring the latest in frontend
-        development? Feel free to connect—let’s innovate together!
+        Passionate about hosting engaging events, facilitating insightful discussions, and creating a seamless flow? Let’s connect and make every moment impactful together!
       </p>
 
       {/* LinkedIn Button */}
       <div className="mt-5">
-        <ButtonWithIcon href="https://www.linkedin.com/in/mohmmdarif">
+        <ButtonWithIcon href="https://www.linkedin.com/in/nadianugrahani21/">
           <Linkedin />
           Get In Touch
         </ButtonWithIcon>
