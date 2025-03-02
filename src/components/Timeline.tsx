@@ -39,13 +39,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
 
         {/* Description */}
         <p className="text-neutral-700 dark:text-neutral-300 text-sm md:text-base max-w-4xl">
-          I am an active student majoring in Informatics with a focus on
-          Software Engineering at Universitas Pembangunan Nasional "Veteran"
-          Jakarta. I have a strong interest in web development and am passionate
-          about creating innovative and efficient software solutions. My
-          academic journey has equipped me with solid knowledge in various
-          aspects of software engineering, and I am continually seeking
-          opportunities to apply and expand my skills in real-world projects.
+          With extensive experience in public speaking, I have been a Master of Ceremony, Moderator, and Speaker at various prestigious events, including national seminars, discussion panels, and music concerts. My confidence, dynamic communication skills, and ability to build interaction with the audience make me the right choice to bring a professional, interesting, and memorable event atmosphere. <br /><br />Do you need an energetic MC, a smart moderator, or an inspirational speaker? I'm ready to help ensure your event is a success!
         </p>
       </div>
 

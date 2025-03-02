@@ -42,8 +42,8 @@ export const AboutMe = ({
     return Math.floor(Math.random() * 21) - 10;
   };
   return (
-    <div className="max-w-sm md:max-w-4xl mx-auto antialiased px-4 md:px-8 lg:px-12 md:py-20">
-      <div className="relative grid grid-cols-1 md:grid-cols-2  gap-20">
+    <div className="max-w-sm md:max-w-6xl mx-auto antialiased px-4 md:px-8 lg:px-0 md:py-20">
+      <div className="relative grid grid-cols-1 md:grid-cols-2 gap-10">
         <div>
           <div className="relative h-80 w-full">
             <AnimatePresence>
@@ -84,7 +84,7 @@ export const AboutMe = ({
                     width={500}
                     height={500}
                     draggable={false}
-                    className="h-full w-full rounded-3xl object-cover object-center"
+                    className="h-full w-full md:w-4/5 rounded-3xl object-cover object-center"
                   />
                 </motion.div>
               ))}

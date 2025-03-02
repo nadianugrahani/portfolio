@@ -53,7 +53,7 @@ export default function Hero() {
       <IdentityHighlight />
 
       <ButtonWithIcon
-        href="https://drive.google.com/file/d/1XuuhU53ZxkJCY0_NQ3v6CYj5us7zoWk9/view?usp=drive_link"
+        href="https://drive.google.com/file/d/1XUGXOteFkkvEtmvuQwZc5PJe9J3Ts2zA/view?usp=sharing"
         className="z-10"
       >
         <Download />

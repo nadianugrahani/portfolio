@@ -3,7 +3,7 @@ import Me from "@/assets/images/aboutme.jpeg";
 export const testimonials = [
   {
     quote:
-      "A user interface is like a joke. If you have to explain it, it’s not that good.",
+      "Hello, I'm Nadia Nugrahani, a Bachelor of Public Health student who not only focuses on the world of health, but also has a great passion for public speaking. Experienced as a Master of Ceremony, Moderator, and Speaker in various events, I am used to building dynamic communication and creating an interactive and memorable atmosphere. ✨🎤 In addition, I am also active in counseling and social action activities involving various age ranges, from children to the elderly. For me, life is about balance: maintaining good health, speaking confidently, and of course, enjoying every moment.",
     name: "Nadia Nugrahani",
     designation: "Moderator and Master of Ceremony",
     src: Me,
